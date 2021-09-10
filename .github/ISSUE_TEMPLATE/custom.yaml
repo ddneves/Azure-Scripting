@@ -26,6 +26,5 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: |
-        After your proposal, the following [process](../../src/diagrams/ADR-000-Process.md) will be initiated.
+      value: After your proposal, the following [process](../../src/diagrams/ADR-000-Process.md) will be initiated.
 
