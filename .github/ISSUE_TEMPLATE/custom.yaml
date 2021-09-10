@@ -8,8 +8,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
-        ## Required information
+      value: | ## Required information
   - type: input
     id: context
     attributes:
